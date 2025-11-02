@@ -1,18 +1,46 @@
-# 💫 About Me:
-I’m currently working on Minecraft Clients & Plugins and Discord Bots
+# Finley
+Software developer from Germany. I build Minecraft mods, automation tools, and experiment with backend systems and algorithms.
 
+---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fmzn9ZVnCS) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@notyourclient) 
+## 🎯 What I'm Building Now
+- Minecraft mods & tools that push gameplay boundaries.
+- Backend services, automation pipelines, and scripting solutions.
+- Exploring advanced algorithms, optimization, and performance hacks.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=finleyjoel1&theme=onedark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=finleyjoel1&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=finleyjoel1&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=finleyjoel1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🛠️ Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Languages:** `Java` ⚡ `Python` 🐍 `JavaScript` 🌐  
+**Tools & Platforms:** Git / GitHub 🔧 VS Code 💻  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=finleyjoel1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finleyjoel1&layout=compact&langs_count=5&theme=tokyonight"/>
+</div>
+
+---
+
+## 🚀 Projects to Check Out
+- **Minecraft Mods & Tools** – [Repo Link](https://github.com/finleyjoel1)  
+- **Automation Scripts** – Streamlining repetitive tasks.  
+- **Experimental Algorithms** – Testing optimization and performance hacks.
+
+---
+
+## 🌐 Connect
+
+Let's talk code, Minecraft, or random chaos:  
+- [GitHub](https://github.com/finleyjoel1)  
+- Discord: `notyourclient`
+
+---
+
+<div align="center">
+  ⭐ Star my repos if you like what I build!
+</div>
