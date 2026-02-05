@@ -7,7 +7,7 @@
 ---
 
 ## Focus
-- Minecraft **clients & plugins** (clean, modular, fast)
+- Minecraft **plugins** (clean)
 - **Backend systems** & automation
 - Performance, architecture, real problem solving
 
@@ -46,7 +46,6 @@
 
 ## Current Work
 - Clean Java architecture
-- Modular client systems
 - Optimization where it actually matters
 
 ---
