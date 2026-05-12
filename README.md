@@ -3,8 +3,8 @@
 
   # Finley
   *“Death can have me, when it earns me.”* — **Kratos**
-   
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3J3ZTY0ZWFhNDlkdnpiazgzNWVseWY1NzZsNjNtY3JlaG1qNGQ2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EAeYHPOcdKuEo9t6sw/giphy.gif" width="400"/>
+
+  <img src="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457864334a335a5459305a5746684e446c6b646e7069617a677a4e575673655759314e7a5a734e6a4e7459334a6c614731714e47513261695a6c634.gif" width="400">
 
   ---
 
