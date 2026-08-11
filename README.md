@@ -18,7 +18,7 @@
   ---
 
   <a href="https://discord.gg/fmzn9ZVnCS">
-    <img src="https://img.shields.io/badge/Discord-vyylex-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-finlxyjoel-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 
   <br /><br />
